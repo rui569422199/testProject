@@ -1,0 +1,3 @@
+com\test\wrui\bootStrap\ControllerStartApplication.class
+com\test\wrui\TestController\TestController.class
+com\test\wrui\TestController\TestRestController.class
